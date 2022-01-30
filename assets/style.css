@@ -2102,7 +2102,7 @@ figcaption {
 }
 
 .section.blue {
-  background-color: #0075eb;
+  background-color: #3168D8;
   color: #fff;
 }
 
@@ -2143,6 +2143,7 @@ figcaption {
 }
 
 .section.full-hero {
+    background-color: #000000;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
